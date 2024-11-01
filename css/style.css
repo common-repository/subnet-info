@@ -1,0 +1,13 @@
+.subnetinfo {
+  
+  font-family: monospace;
+  display: block;
+  border: 1px solid rgba(51, 51, 51, 0.1);
+  background-color: rgba(0, 0, 0, 0.01);
+  padding: 0.8em;
+  font-size: 80%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  line-height: normal;
+  white-space: pre-wrap;
+}
